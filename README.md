@@ -1,5 +1,5 @@
-# Sean's Edits
+# The Revenge of Sean's Edits
 
-This is a test. For more information, go to [*YappariNingen*](http://onemonthtrails.com)
+This is another test. For more information, go to [*YappariNingen*](http://onemonth.com)
 
-by SK
+by Sean
