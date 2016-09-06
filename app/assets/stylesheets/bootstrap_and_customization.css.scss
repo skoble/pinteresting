@@ -1,0 +1,19 @@
+@import 'https://fonts.googleapis.com/css?family=Baloo+Tamma';
+
+$body-bg: #34495e;
+$font-family-sans-serif: 'Baloo Tamma', cursive;
+$navbar-inverse-bg: #2c3e50;
+$navbar-inverse-link-color: white;
+$jumbotron-bg: #7f8c8d;
+$brand-primary: #c0392b;
+$jumbotron-color: white;
+@import 'bootstrap-sprockets';
+@import "bootstrap";
+
+.center {
+	text-align: center;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
